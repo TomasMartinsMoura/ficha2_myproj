@@ -5,11 +5,7 @@ Adicionar linhas ao file3.txt
 Não sei o que mais escrever portanto fica assim.
 
 <<<<<<< HEAD
-<h1> Listas de coisas </h1>
-=======
-<<<<<<< HEAD
 <h2> Bebidas </h2>
 =======
 <h1> Listas de coisas </h1>
 >>>>>>> NovaFeature
->>>>>>> master
